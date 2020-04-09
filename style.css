@@ -1,0 +1,36 @@
+h1
+    {
+      	background-color:#cceeff; 
+      	font-size:72px; 
+      	margin-top:10px; 
+      	padding: 20p;
+    }
+	
+tr, td, th
+    {
+	border:1px solid black;
+	height: 20px;
+	font-size: 20px
+	}
+	
+table
+    {
+      	width:500px;
+      	border:1px solid black;
+   	}
+p
+    {
+	font-size: 20px;
+	}
+	
+body
+    {
+      	background-color:#66ccff;
+    }
+		
+h2  
+	{
+	font-size:20px;
+	}
+	
+    
